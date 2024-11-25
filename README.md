@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Oscar Lovo and I'm a ..., from ....</p>
+<p align="left">My name is Oscar Lovo and I'm a estudiante de ingenieria de sistemas, from ....</p>
 
 ###
 
